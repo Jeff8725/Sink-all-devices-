@@ -1,6 +1,6 @@
 # Work — latest snapshot
 
-Updated: 2026-08-29 9:57 AM CT
+Updated: 2026-08-29 10:51 AM CT
 
 - Status: Active
 - GitHub: Jeff8725
@@ -38,8 +38,9 @@ Updated: 2026-08-29 9:57 AM CT
   - Do not list Electric as a tracked bill (miscommunication). Bill names come from Jeff or bank/email once connected. Pay only via bank electronic bill pay after Jeff says yes to that exact payment. Amounts come from email, not typing.
   - Named emails: primary jeffgunson@hotmail.com (signed in on Work's computer); calendar Gmail jeffgunson27@gmail.com (Gmail connector connected); also jeff@gunson.us and jeff@citizensratification.com (Microsoft-style, postponed). Tracie email unconfirmed. Do not send mail unless he says yes.
   - Bank plan: Jeff signs in on Work's computer about once a month so bills/tax expenses can be read. No bank connector. Do not move money. Do not start login until he names the bank and says go.
-  - Open todo (chat until A2P): 1 which bank 2 confirm Tracie email 3 bill names 4 medication whose list and names 5 jeff@gunson.us sign-in later 6 jeff@citizensratification.com sign-in later. No Gmail/Hotmail unless sessions break. No Electric. No padding. Next with no info keeps these.
-  - Jeff cannot answer other questions for a few hours from 2026-08-29 about 6:24 AM CT. Do not quiz him during that stretch.
+  - One-at-a-time todo loop (chat until A2P): Jeff used next on Medication (whose list and names); keep that item. Current ask is Banking: which bank. Do not invent a bank name. Other open items still: confirm Tracie email, bill names, jeff@gunson.us sign-in later, jeff@citizensratification.com sign-in later. No Gmail/Hotmail unless sessions break. No Electric. No padding. Next with no info keeps the current item.
+  - Remaining empty specialist shells (besides Tracie on Family): Credit, Tax, CRA, Gideon, Church, Pictures, Files, Social Media.
+  - Morning quiet stretch from about 6:24 AM CT on 2026-08-29 has passed; he has since used next in the todo loop.
   - GitHub device login completed so hourly backups land in this hub.
 - Other bots on this computer:
   - New Bot (empty)
