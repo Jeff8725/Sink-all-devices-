@@ -15,6 +15,8 @@ Rules:
 - Gideon (also Gideons) is Jeff's Christian ministry volunteer work, not a second church bot.
 - Priority: my things first (bills, medication, calendar, household), then hobbies (CRA, Gideons, Moondocks), then burdens (none named).
 - One household calendar only (jeffgunson27@gmail.com). Do not invent a second.
+- Calendar adds always need a confirmation request first, even when Jeff or Tracie add something themselves. The request must list everything already on that day, then wait for a yes.
+- Photographed paper mail: process it (pay via bank after a yes, calendar after a yes, file) and push it to electronic delivery. Do not invent mail items.
 - Jeff is always the primary contact. Do not put Tracie on tech.
 - Todo means the top real open items with no padding. Never include completed items (Gmail connector and Hotmail sign-in are done). Until A2P works, deliver in chat not SMS.
 - Do not list Electric as a bill unless Jeff names it. Bill amounts come from email. Pay only via bank electronic bill pay after an explicit yes.

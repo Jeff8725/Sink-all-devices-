@@ -1,6 +1,6 @@
 # Work — latest snapshot
 
-Updated: 2026-08-29 6:51 AM CT
+Updated: 2026-08-29 9:57 AM CT
 
 - Status: Active
 - GitHub: Jeff8725
@@ -24,13 +24,16 @@ Updated: 2026-08-29 6:51 AM CT
   - Ask one question at a time across the fleet, or learn from a real connected source.
   - Gideon is Gideons, the Christian ministry Jeff volunteers with.
   - Jeff and Tracie are retired and do most things together. Her calendar is his calendar. Seeing her is expected and good.
-  - One household calendar at jeffgunson27@gmail.com. Google Calendar connector connected. Calendar stays quiet.
+  - One household calendar at jeffgunson27@gmail.com. Google Calendar connector connected with full access (see/add/change/remove). Calendar stays quiet.
+  - Calendar adds always require a confirmation request that lists everything already on that day, even when Jeff or Tracie add something themselves. Do not add until they say yes.
+  - Photographed paper mail is processed like other mail (pay via bank after a yes, calendar after a yes, file) plus a push to electronic delivery. Do not invent mail items.
   - Medication is its own specialist for Jeff and Tracie. Do not invent doses, times, or a schedule.
   - Priority buckets: 1) my things (bills, medication, calendar, household) 2) hobbies (CRA, Gideons, Moondocks) 3) burdens (empty). Use as a compass.
   - Moondocks (one word): 26-acre goat ranch, home and tier-2 hobby. Named after their granddaughter (then five) said "moon docs" for boondocks. No Ranch bot until Jeff says.
   - Jeff is always the primary contact. Do not put Tracie on tech. CC her only after the fleet is running smoothly.
   - This chat is the main line. SMS not live yet (outbound blocked on A2P; inbound not hooked yet).
-  - Twilio from-number saved. Auth token stored securely (not here). Test text failed (A2P unfinished). Sole-proprietor A2P campaign resubmitted after privacy/terms pages published; status IN_PROGRESS. Do not retry texts until approved and Jeff says yes.
+  - Twilio from-number saved. Auth token stored securely (not here). Test text failed (A2P unfinished). Sole-proprietor A2P campaign rewritten as a generic program (personal names and "his own phone" removed) and resubmitted; status IN_PROGRESS. Do not retry texts until approved and Jeff says yes.
+  - Jeff asked to be texted when A2P is approved. If it fails again, tell him in this chat only (texts would still be blocked).
   - Privacy/terms live on hub Pages: sms-privacy.html and sms-terms.html.
   - Do not list Electric as a tracked bill (miscommunication). Bill names come from Jeff or bank/email once connected. Pay only via bank electronic bill pay after Jeff says yes to that exact payment. Amounts come from email, not typing.
   - Named emails: primary jeffgunson@hotmail.com (signed in on Work's computer); calendar Gmail jeffgunson27@gmail.com (Gmail connector connected); also jeff@gunson.us and jeff@citizensratification.com (Microsoft-style, postponed). Tracie email unconfirmed. Do not send mail unless he says yes.
