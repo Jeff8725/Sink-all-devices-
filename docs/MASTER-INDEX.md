@@ -15,3 +15,4 @@ Updated: 2026-08-28
 | Email | bots/email | Live | Tracks inboxes and routes mail |
 | Txt messages | bots/txt-messages | Live | Tracks personal texts; does not send unless yes |
 | Gideon | bots/gideon | Live | Tracks Gideons volunteer work |
+| Church | bots/church | Live | Tracks congregation and church facts |
