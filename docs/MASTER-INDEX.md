@@ -20,3 +20,4 @@ Updated: 2026-08-29
 | Medication | bots/medication | In Progress | Jeff and Tracie medicine facts |
 | Family | bots/family | In Progress | Household people Jeff names |
 | Pictures | bots/pictures | In Progress | Photo albums Jeff names |
+| Files | bots/files | In Progress | Documents and file locations Jeff names |
