@@ -12,3 +12,4 @@ Updated: 2026-08-28
 | Credit | bots/credit | Live | Tracks cards and credit-file facts |
 | Tax | bots/tax | Live | Tracks US/state tax facts; does not file |
 | CRA | bots/cra | Live | Tracks Canada Revenue Agency facts |
+| Email | bots/email | Live | Tracks inboxes and routes mail |
