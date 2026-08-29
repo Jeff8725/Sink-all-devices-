@@ -10,3 +10,4 @@ Updated: 2026-08-28
 | Bills | bots/bills | Live | Tracks household bills and due dates |
 | Banking | bots/banking | Live | Tracks bank accounts; pays only after a yes |
 | Credit | bots/credit | Live | Tracks cards and credit-file facts |
+| Tax | bots/tax | Live | Tracks US/state tax facts; does not file |
