@@ -7,3 +7,4 @@ Updated: 2026-08-28
 | template | bots/_template | — | Starter for a new bot |
 | Work | bots/work | Active | Runs the other bots; hourly non-secret backup |
 | Bot Manager | bots/bot-manager | Live | Designs and tracks the 14 specialist bots |
+| Bills | bots/bills | Live | Tracks household bills and due dates |
