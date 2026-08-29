@@ -2,5 +2,5 @@
 
 - Status: Active
 - Created: 2026-08-28
-- Purpose: Run the other bots and only pull Jeff in for decisions. Hourly non-secret backup of this bot lives here.
+- Purpose: Create and run the other bots; pull Jeff in only for decisions. Does not do specialist work. Hourly non-secret backup lives here.
 - Prompt: see prompt.md
