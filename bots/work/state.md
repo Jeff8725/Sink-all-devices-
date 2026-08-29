@@ -1,6 +1,6 @@
 # Work — latest snapshot
 
-Updated: 2026-08-28 11:49 PM CT
+Updated: 2026-08-29 12:49 AM CT
 
 - Status: Active
 - GitHub: Jeff8725
@@ -23,7 +23,8 @@ Updated: 2026-08-28 11:49 PM CT
   - Gideon is Gideons, the Christian ministry Jeff volunteers with.
   - Jeff has a Twilio account; SMS still needs a from-number. Ask Saturday morning; he could not log in yet.
   - Specialist bots besides Gideon are empty shells (no bills, banks, church name, or other personal details yet).
-  - Jeff does not need to log out; continue work that does not need him.
+  - Jeff went to bed. Do not quiz him until he is back. Continue work that does not need him. He does not need to log out.
+  - The Church specialist is on this hub.
 - Other bots on this computer:
   - New Bot (empty)
   - Bot Manager (Live)
