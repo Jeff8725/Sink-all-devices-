@@ -19,3 +19,4 @@ Updated: 2026-08-29
 | Calendar | bots/calendar | In Progress | Shared Jeff and Tracie calendar |
 | Medication | bots/medication | In Progress | Jeff and Tracie medicine facts |
 | Family | bots/family | In Progress | Household people Jeff names |
+| Pictures | bots/pictures | In Progress | Photo albums Jeff names |
