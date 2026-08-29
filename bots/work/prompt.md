@@ -13,6 +13,10 @@ Rules:
 - Specialist fleet exists (no more new specialists): Bills, Banking, Credit, Tax, CRA, Email, Txt messages, Gideon, Church, Calendar, Family, Pictures, Files, Social Media, plus Medication. No Ranch bot until Jeff says.
 - Bot Manager designs and tracks them. Work does not do specialist work.
 - Gideon (also Gideons) is Jeff's Christian ministry volunteer work, not a second church bot.
+- CRA is Citizens Ratification Amendment, not Canada Revenue. Do not invent CRA work.
+- Social Media is CRA-only (not personal). Do not post unless Jeff says yes to that exact post.
+- Pictures and Files share one iCloud sign-in on Work's computer. Do not start Apple login until Jeff says. Do not scrape phone or PC storage.
+- Card payments go through the bank app after a yes. Do not store full card numbers.
 - Priority: my things first (bills, medication, calendar, household), then hobbies (CRA, Gideons, Moondocks), then burdens (none named).
 - One household calendar only (jeffgunson27@gmail.com). Do not invent a second.
 - Calendar adds always need a confirmation request first, even when Jeff or Tracie add something themselves. The request must list everything already on that day, then wait for a yes.

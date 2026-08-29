@@ -1,6 +1,6 @@
 # Work — latest snapshot
 
-Updated: 2026-08-29 10:51 AM CT
+Updated: 2026-08-29 11:50 AM CT
 
 - Status: Active
 - GitHub: Jeff8725
@@ -23,6 +23,14 @@ Updated: 2026-08-29 10:51 AM CT
   - Fleet: Bills, Banking, Credit, Tax, CRA, Email, Txt messages, Gideon, Church, Calendar, Family, Pictures, Files, Social Media, plus Medication.
   - Ask one question at a time across the fleet, or learn from a real connected source.
   - Gideon is Gideons, the Christian ministry Jeff volunteers with.
+  - CRA is Citizens Ratification Amendment, not Canada Revenue. Jeff confirmed 2026-08-29. CRA bot description was updated. Do not invent CRA work.
+  - Jeff Gunson (USAF Ret.) is President of Citizens Ratification Inc. (CRI), a temporary Texas nonprofit for the CRA. Website CitizensRatification.com. CRI dissolves when the Citizens Ratification Branch is fully implemented. White paper locked July 28, 2026. CRI Bylaws adopted July 15, 2026. Do not rewrite CRA files unless Jeff says yes to that exact change.
+  - On 2026-08-29 Jeff uploaded six CRA files (white paper locked July 28 2026, active master with amendment text and AI-edit restriction, project summary, Citizen Commons, CRI Bylaws July 15 2026, and a July 16 2026 Trump speech transcript). Copies live on Work's computer under /workspace/cra/. Do not treat the Trump transcript as locked CRA doctrine unless he says so. Those files are not copied into this hub snapshot.
+  - Social Media is CRA-only (not personal). Four accounts complete: Facebook page Citizen Ratification (CitizensRatification Inc); Truth Social Citizen @CitizensRatificationCom; YouTube @jeffgunson4126; X Citizen @JeffGunson74358 (verified). Do not invent more accounts. Do not post unless Jeff says yes to that exact post.
+  - Pictures: all photos on iCloud. No iCloud connector. One iCloud sign-in on Work's computer covers Pictures and Files. Do not start Apple login until Jeff says. Do not scrape phone camera roll or PC storage. Files: no nicknames given yet.
+  - Tax: gather expenses from bank and credit cards into two live reports (all expenses vs tax-deductible only). Do not guess deductibility. Ranch (Moondocks) expenses are the only business deductions besides normal personal ones. Lowe's and Tractor Supply accounts exist for spending (~90% ranch); sign-in on Work's computer when he is ready; do not invent account numbers. If ranch vs living is unclear, ask one item at a time. Bank sign-in still needed before Tax can run.
+  - Credit: tracks cards and credit-file facts; does not pay cards. Two cards named by nickname (full numbers and last-fours not stored here). Pay through the bank app after a yes. More cards later. Do not invent card names.
+  - Family: defined with closest-family first names and positions Jeff named (no last names, ages, or other people). Grandchildren later. Do not invent last names. First names are not listed in this public snapshot.
   - Jeff and Tracie are retired and do most things together. Her calendar is his calendar. Seeing her is expected and good.
   - One household calendar at jeffgunson27@gmail.com. Google Calendar connector connected with full access (see/add/change/remove). Calendar stays quiet.
   - Calendar adds always require a confirmation request that lists everything already on that day, even when Jeff or Tracie add something themselves. Do not add until they say yes.
@@ -38,8 +46,8 @@ Updated: 2026-08-29 10:51 AM CT
   - Do not list Electric as a tracked bill (miscommunication). Bill names come from Jeff or bank/email once connected. Pay only via bank electronic bill pay after Jeff says yes to that exact payment. Amounts come from email, not typing.
   - Named emails: primary jeffgunson@hotmail.com (signed in on Work's computer); calendar Gmail jeffgunson27@gmail.com (Gmail connector connected); also jeff@gunson.us and jeff@citizensratification.com (Microsoft-style, postponed). Tracie email unconfirmed. Do not send mail unless he says yes.
   - Bank plan: Jeff signs in on Work's computer about once a month so bills/tax expenses can be read. No bank connector. Do not move money. Do not start login until he names the bank and says go.
-  - One-at-a-time todo loop (chat until A2P): Jeff used next on Medication (whose list and names); keep that item. Current ask is Banking: which bank. Do not invent a bank name. Other open items still: confirm Tracie email, bill names, jeff@gunson.us sign-in later, jeff@citizensratification.com sign-in later. No Gmail/Hotmail unless sessions break. No Electric. No padding. Next with no info keeps the current item.
-  - Remaining empty specialist shells (besides Tracie on Family): Credit, Tax, CRA, Gideon, Church, Pictures, Files, Social Media.
+  - One-at-a-time todo loop (chat until A2P): Jeff used next on Medication (whose list and names); keep that item. Current open setup items (no padding): 1) which bank 2) confirm Tracie email 3) bill names 4) medication whose list and names 5) jeff@gunson.us sign-in later 6) jeff@citizensratification.com sign-in later 7) iCloud sign-in once for Pictures and Files (do not start until Jeff says). No Gmail/Hotmail unless sessions break. No Electric. Next with no info keeps the current item. Credit stays open for more cards later (not a padded todo).
+  - Remaining empty specialist shells: Gideon, Church (CRA now has files and description but is still being defined). Family, Pictures, Files, Social Media, Credit, and Tax have been defined further since the last snapshot.
   - Morning quiet stretch from about 6:24 AM CT on 2026-08-29 has passed; he has since used next in the todo loop.
   - GitHub device login completed so hourly backups land in this hub.
 - Other bots on this computer:
@@ -49,15 +57,15 @@ Updated: 2026-08-29 10:51 AM CT
   - Banking (Live)
   - Credit (Live)
   - Tax (Live)
-  - CRA (Live)
+  - CRA (Live; description now Citizens Ratification Amendment)
   - Email (Live)
   - Txt messages (Live)
   - Gideon (Live)
   - Church (In Progress; first-run deferred)
   - Calendar (Live; connector connected; quiet)
   - Medication (In Progress; first-run deferred)
-  - Family (In Progress; first-run deferred)
-  - Pictures (In Progress; first-run deferred)
-  - Files (In Progress; first-run deferred)
-  - Social Media (In Progress; first-run deferred)
+  - Family (In Progress; first-run deferred; first names defined)
+  - Pictures (In Progress; first-run deferred; iCloud)
+  - Files (In Progress; first-run deferred; iCloud, no nicknames)
+  - Social Media (In Progress; first-run deferred; four CRA accounts complete)
 - Fleet: all specialists exist. Roster closed.
