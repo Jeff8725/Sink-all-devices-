@@ -13,3 +13,4 @@ Updated: 2026-08-28
 | Tax | bots/tax | Live | Tracks US/state tax facts; does not file |
 | CRA | bots/cra | Live | Tracks Canada Revenue Agency facts |
 | Email | bots/email | Live | Tracks inboxes and routes mail |
+| Txt messages | bots/txt-messages | Live | Tracks personal texts; does not send unless yes |
