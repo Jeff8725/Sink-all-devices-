@@ -17,3 +17,4 @@ Updated: 2026-08-29
 | Gideon | bots/gideon | Live | Tracks Gideons volunteer work |
 | Church | bots/church | Live | Tracks congregation and church facts |
 | Calendar | bots/calendar | In Progress | Shared Jeff and Tracie calendar |
+| Medication | bots/medication | In Progress | Jeff and Tracie medicine facts |
