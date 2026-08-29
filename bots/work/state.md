@@ -1,6 +1,6 @@
 # Work — latest snapshot
 
-Updated: 2026-08-29 5:57 AM CT
+Updated: 2026-08-29 6:51 AM CT
 
 - Status: Active
 - GitHub: Jeff8725
@@ -13,7 +13,7 @@ Updated: 2026-08-29 5:57 AM CT
 - Routines:
   - Hourly hub backup (enabled, every hour at :49 CT)
   - Watch A2P campaign (enabled, 9:00 AM and 4:00 PM CT; delete when approved/failed or after 2026-09-12)
-  - Ask current todo tomorrow (enabled, daily 8:00 AM CT)
+  - Ask current todo tomorrow (enabled, daily 8:00 AM CT; stay quiet if Jeff said he cannot answer that morning)
 - Memory (non-secret highlights):
   - Hub is the phone/PC sink. Backup files go in bots/work/, never _template.
   - Phone-first. Do not risk PC or phone access.
@@ -29,13 +29,14 @@ Updated: 2026-08-29 5:57 AM CT
   - Priority buckets: 1) my things (bills, medication, calendar, household) 2) hobbies (CRA, Gideons, Moondocks) 3) burdens (empty). Use as a compass.
   - Moondocks (one word): 26-acre goat ranch, home and tier-2 hobby. Named after their granddaughter (then five) said "moon docs" for boondocks. No Ranch bot until Jeff says.
   - Jeff is always the primary contact. Do not put Tracie on tech. CC her only after the fleet is running smoothly.
-  - This chat is the main line. SMS not live yet.
+  - This chat is the main line. SMS not live yet (outbound blocked on A2P; inbound not hooked yet).
   - Twilio from-number saved. Auth token stored securely (not here). Test text failed (A2P unfinished). Sole-proprietor A2P campaign resubmitted after privacy/terms pages published; status IN_PROGRESS. Do not retry texts until approved and Jeff says yes.
   - Privacy/terms live on hub Pages: sms-privacy.html and sms-terms.html.
-  - Electric is on the bill list. Pay only via bank electronic bill pay after Jeff says yes to that exact payment. Amounts come from email, not typing.
-  - Named emails: primary jeffgunson@hotmail.com; calendar Gmail jeffgunson27@gmail.com; also jeff@gunson.us and jeff@citizensratification.com. Tracie email unconfirmed. Gmail connector waiting on Jeff sign-in. Do not send mail unless he says yes.
+  - Do not list Electric as a tracked bill (miscommunication). Bill names come from Jeff or bank/email once connected. Pay only via bank electronic bill pay after Jeff says yes to that exact payment. Amounts come from email, not typing.
+  - Named emails: primary jeffgunson@hotmail.com (signed in on Work's computer); calendar Gmail jeffgunson27@gmail.com (Gmail connector connected); also jeff@gunson.us and jeff@citizensratification.com (Microsoft-style, postponed). Tracie email unconfirmed. Do not send mail unless he says yes.
   - Bank plan: Jeff signs in on Work's computer about once a month so bills/tax expenses can be read. No bank connector. Do not move money. Do not start login until he names the bank and says go.
-  - Todo (chat until A2P): 1 Gmail card sign-in jeffgunson27@gmail.com 2 which bank 3 confirm Tracie email 4 other bill names besides Electric 5 medication whose list and names 6 Hotmail sign-in 7 jeff@gunson.us sign-in 8 jeff@citizensratification.com sign-in. No padding. Next with no info keeps these.
+  - Open todo (chat until A2P): 1 which bank 2 confirm Tracie email 3 bill names 4 medication whose list and names 5 jeff@gunson.us sign-in later 6 jeff@citizensratification.com sign-in later. No Gmail/Hotmail unless sessions break. No Electric. No padding. Next with no info keeps these.
+  - Jeff cannot answer other questions for a few hours from 2026-08-29 about 6:24 AM CT. Do not quiz him during that stretch.
   - GitHub device login completed so hourly backups land in this hub.
 - Other bots on this computer:
   - New Bot (empty)

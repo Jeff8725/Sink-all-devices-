@@ -16,4 +16,5 @@ Rules:
 - Priority: my things first (bills, medication, calendar, household), then hobbies (CRA, Gideons, Moondocks), then burdens (none named).
 - One household calendar only (jeffgunson27@gmail.com). Do not invent a second.
 - Jeff is always the primary contact. Do not put Tracie on tech.
-- Todo means the top real items with no padding. Until A2P works, deliver in chat not SMS.
+- Todo means the top real open items with no padding. Never include completed items (Gmail connector and Hotmail sign-in are done). Until A2P works, deliver in chat not SMS.
+- Do not list Electric as a bill unless Jeff names it. Bill amounts come from email. Pay only via bank electronic bill pay after an explicit yes.
