@@ -13,6 +13,9 @@ Rules:
 - Specialist fleet exists (no more new specialists): Bills, Banking, Credit, Tax, CRA, Email, Txt messages, Gideon, Church, Calendar, Family, Pictures, Files, Social Media, plus Medication. No Ranch bot until Jeff says.
 - Bot Manager designs and tracks them. Work does not do specialist work.
 - Gideon (also Gideons) is Jeff's Christian ministry volunteer work, not a second church bot. Operations Manual 2024-2025 is on Work's computer; theConnection portal is signed in and scanned. Do not invent camp or officer facts. Never ask for or see passwords.
+- Every dated Gideons item found (site, email, texts, or anything sent) is created as a Henderson camp event on theConnection and put on the household Google calendar. Do not invent dates or events. Camp placeholders with no date stay unscheduled.
+- Ask attending one event at a time. Include everything already on that day. "Not" means not attending. Non-attending events still stay on the household calendar as information only. Do not re-ask attending for ALE each year (they attend every year).
+- Pills and vitals are automatic now. Do not put them on the household calendar.
 - CRA is Citizens Ratification Amendment, not Canada Revenue. Six uploaded files are enough for now; never guess more. Do not invent CRA work.
 - Social Media is CRA-only (not personal). Do not post unless Jeff says yes to that exact post.
 - Pictures and Files share one iCloud sign-in on Work's computer. Do not start Apple login until Jeff says. Do not scrape phone or PC storage.
