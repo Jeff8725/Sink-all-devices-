@@ -1,6 +1,6 @@
 # Work — latest snapshot
 
-Updated: 2026-08-29 11:50 AM CT
+Updated: 2026-08-29 12:51 PM CT
 
 - Status: Active
 - GitHub: Jeff8725
@@ -22,10 +22,10 @@ Updated: 2026-08-29 11:50 AM CT
   - Specialist fleet is complete. No more new specialists. No Ranch bot until Jeff says.
   - Fleet: Bills, Banking, Credit, Tax, CRA, Email, Txt messages, Gideon, Church, Calendar, Family, Pictures, Files, Social Media, plus Medication.
   - Ask one question at a time across the fleet, or learn from a real connected source.
-  - Gideon is Gideons, the Christian ministry Jeff volunteers with.
+  - Gideon is Gideons, the Christian ministry Jeff volunteers with. On 2026-08-29 he uploaded The Gideons International Operations Manual 2024-2025 (210 pages). Copies live on Work's computer under /workspace/gideon/. He said we will do and manage everything in that manual. Website login still pending (he signs in on Work's computer when ready). Do not invent camp, officer, or local Gideons facts. Manual files are not copied into this hub snapshot.
   - CRA is Citizens Ratification Amendment, not Canada Revenue. Jeff confirmed 2026-08-29. CRA bot description was updated. Do not invent CRA work.
   - Jeff Gunson (USAF Ret.) is President of Citizens Ratification Inc. (CRI), a temporary Texas nonprofit for the CRA. Website CitizensRatification.com. CRI dissolves when the Citizens Ratification Branch is fully implemented. White paper locked July 28, 2026. CRI Bylaws adopted July 15, 2026. Do not rewrite CRA files unless Jeff says yes to that exact change.
-  - On 2026-08-29 Jeff uploaded six CRA files (white paper locked July 28 2026, active master with amendment text and AI-edit restriction, project summary, Citizen Commons, CRI Bylaws July 15 2026, and a July 16 2026 Trump speech transcript). Copies live on Work's computer under /workspace/cra/. Do not treat the Trump transcript as locked CRA doctrine unless he says so. Those files are not copied into this hub snapshot.
+  - On 2026-08-29 Jeff uploaded six CRA files (white paper locked July 28 2026, active master with amendment text and AI-edit restriction, project summary, Citizen Commons, CRI Bylaws July 15 2026, and a July 16 2026 Trump speech transcript). Copies live on Work's computer under /workspace/cra/. Do not treat the Trump transcript as locked CRA doctrine unless he says so. He said he has hundreds more CRA papers; six files are enough for now. Never guess remaining papers, officers, filings, or numbers. Those files are not copied into this hub snapshot.
   - Social Media is CRA-only (not personal). Four accounts complete: Facebook page Citizen Ratification (CitizensRatification Inc); Truth Social Citizen @CitizensRatificationCom; YouTube @jeffgunson4126; X Citizen @JeffGunson74358 (verified). Do not invent more accounts. Do not post unless Jeff says yes to that exact post.
   - Pictures: all photos on iCloud. No iCloud connector. One iCloud sign-in on Work's computer covers Pictures and Files. Do not start Apple login until Jeff says. Do not scrape phone camera roll or PC storage. Files: no nicknames given yet.
   - Tax: gather expenses from bank and credit cards into two live reports (all expenses vs tax-deductible only). Do not guess deductibility. Ranch (Moondocks) expenses are the only business deductions besides normal personal ones. Lowe's and Tractor Supply accounts exist for spending (~90% ranch); sign-in on Work's computer when he is ready; do not invent account numbers. If ranch vs living is unclear, ask one item at a time. Bank sign-in still needed before Tax can run.
@@ -41,13 +41,14 @@ Updated: 2026-08-29 11:50 AM CT
   - Jeff is always the primary contact. Do not put Tracie on tech. CC her only after the fleet is running smoothly.
   - This chat is the main line. SMS not live yet (outbound blocked on A2P; inbound not hooked yet).
   - Twilio from-number saved. Auth token stored securely (not here). Test text failed (A2P unfinished). Sole-proprietor A2P campaign rewritten as a generic program (personal names and "his own phone" removed) and resubmitted; status IN_PROGRESS. Do not retry texts until approved and Jeff says yes.
+  - Once A2P works, Jeff said the fleet may text him anytime; unnecessary texts have no downside; learn by example what not to text. Do not text Tracie. Do not text other people unless he says yes to that exact send.
   - Jeff asked to be texted when A2P is approved. If it fails again, tell him in this chat only (texts would still be blocked).
   - Privacy/terms live on hub Pages: sms-privacy.html and sms-terms.html.
   - Do not list Electric as a tracked bill (miscommunication). Bill names come from Jeff or bank/email once connected. Pay only via bank electronic bill pay after Jeff says yes to that exact payment. Amounts come from email, not typing.
   - Named emails: primary jeffgunson@hotmail.com (signed in on Work's computer); calendar Gmail jeffgunson27@gmail.com (Gmail connector connected); also jeff@gunson.us and jeff@citizensratification.com (Microsoft-style, postponed). Tracie email unconfirmed. Do not send mail unless he says yes.
   - Bank plan: Jeff signs in on Work's computer about once a month so bills/tax expenses can be read. No bank connector. Do not move money. Do not start login until he names the bank and says go.
   - One-at-a-time todo loop (chat until A2P): Jeff used next on Medication (whose list and names); keep that item. Current open setup items (no padding): 1) which bank 2) confirm Tracie email 3) bill names 4) medication whose list and names 5) jeff@gunson.us sign-in later 6) jeff@citizensratification.com sign-in later 7) iCloud sign-in once for Pictures and Files (do not start until Jeff says). No Gmail/Hotmail unless sessions break. No Electric. Next with no info keeps the current item. Credit stays open for more cards later (not a padded todo).
-  - Remaining empty specialist shells: Gideon, Church (CRA now has files and description but is still being defined). Family, Pictures, Files, Social Media, Credit, and Tax have been defined further since the last snapshot.
+  - Remaining empty specialist shells: Gideon and Church. CRA is good-enough for now with the six files (never guess the rest). Family, Pictures, Files, Social Media, Credit, Tax, and Gideon have been defined further since earlier snapshots.
   - Morning quiet stretch from about 6:24 AM CT on 2026-08-29 has passed; he has since used next in the todo loop.
   - GitHub device login completed so hourly backups land in this hub.
 - Other bots on this computer:
@@ -60,7 +61,7 @@ Updated: 2026-08-29 11:50 AM CT
   - CRA (Live; description now Citizens Ratification Amendment)
   - Email (Live)
   - Txt messages (Live)
-  - Gideon (Live)
+  - Gideon (Live; Operations Manual on Work's computer; website login pending)
   - Church (In Progress; first-run deferred)
   - Calendar (Live; connector connected; quiet)
   - Medication (In Progress; first-run deferred)
