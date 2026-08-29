@@ -1,6 +1,6 @@
 # Work — latest snapshot
 
-Updated: 2026-08-29 4:57 AM CT
+Updated: 2026-08-29 5:57 AM CT
 
 - Status: Active
 - GitHub: Jeff8725
@@ -12,26 +12,31 @@ Updated: 2026-08-29 4:57 AM CT
 - Skills: none user-created
 - Routines:
   - Hourly hub backup (enabled, every hour at :49 CT)
-  - Ask Twilio from-number (enabled, Saturday 8:00 AM CT; one-shot, delete after asking)
-- Memory (non-secret):
+  - Watch A2P campaign (enabled, 9:00 AM and 4:00 PM CT; delete when approved/failed or after 2026-09-12)
+  - Ask current todo tomorrow (enabled, daily 8:00 AM CT)
+- Memory (non-secret highlights):
   - Hub is the phone/PC sink. Backup files go in bots/work/, never _template.
   - Phone-first. Do not risk PC or phone access.
   - Check with Jeff before changing something already stored or decided.
   - After setup, Bot Manager takes Work's place as the ongoing manager. Work is for getting the fleet set up.
-  - Specialist fleet is complete. BM will not resend existing prompts. No more new specialists. No Ranch bot until Jeff says. Do not message Jeff for first-run.
+  - Specialist fleet is complete. No more new specialists. No Ranch bot until Jeff says.
   - Fleet: Bills, Banking, Credit, Tax, CRA, Email, Txt messages, Gideon, Church, Calendar, Family, Pictures, Files, Social Media, plus Medication.
-  - Ask one question at a time across the fleet.
+  - Ask one question at a time across the fleet, or learn from a real connected source.
   - Gideon is Gideons, the Christian ministry Jeff volunteers with.
   - Jeff and Tracie are retired and do most things together. Her calendar is his calendar. Seeing her is expected and good.
-  - One household calendar at jeffgunson27@gmail.com. Google Calendar connector is installed and connected. Do not install another. Calendar stays quiet and does not quiz Jeff.
+  - One household calendar at jeffgunson27@gmail.com. Google Calendar connector connected. Calendar stays quiet.
   - Medication is its own specialist for Jeff and Tracie. Do not invent doses, times, or a schedule.
-  - Priority buckets: 1) my things (bills, medication, calendar, household) 2) hobbies (CRA, Gideons, Moondocks) 3) burdens (empty; Jeff said thankfully none). Use as a compass; do not keep asking him to sort.
-  - Moondocks (one word): 26-acre goat ranch, home and tier-2 hobby. Named after their granddaughter (then five) said "moon docs" for boondocks. Do not invent herd size. No Ranch bot until Jeff says.
-  - Jeff is always the primary contact. Do not put Tracie on tech. CC her only after the fleet is running smoothly and they are just living.
-  - This chat is the main line. Jeff opens a specialist only when he wants that topic. SMS is not a live channel yet.
-  - Twilio account exists; from-number still pending. Ask Saturday morning. Do not store tokens here.
-  - Specialist bots besides Gideon are empty shells (no bills, banks, church name, or other personal details yet).
-  - GitHub device login completed so hourly backups can land in this hub.
+  - Priority buckets: 1) my things (bills, medication, calendar, household) 2) hobbies (CRA, Gideons, Moondocks) 3) burdens (empty). Use as a compass.
+  - Moondocks (one word): 26-acre goat ranch, home and tier-2 hobby. Named after their granddaughter (then five) said "moon docs" for boondocks. No Ranch bot until Jeff says.
+  - Jeff is always the primary contact. Do not put Tracie on tech. CC her only after the fleet is running smoothly.
+  - This chat is the main line. SMS not live yet.
+  - Twilio from-number saved. Auth token stored securely (not here). Test text failed (A2P unfinished). Sole-proprietor A2P campaign resubmitted after privacy/terms pages published; status IN_PROGRESS. Do not retry texts until approved and Jeff says yes.
+  - Privacy/terms live on hub Pages: sms-privacy.html and sms-terms.html.
+  - Electric is on the bill list. Pay only via bank electronic bill pay after Jeff says yes to that exact payment. Amounts come from email, not typing.
+  - Named emails: primary jeffgunson@hotmail.com; calendar Gmail jeffgunson27@gmail.com; also jeff@gunson.us and jeff@citizensratification.com. Tracie email unconfirmed. Gmail connector waiting on Jeff sign-in. Do not send mail unless he says yes.
+  - Bank plan: Jeff signs in on Work's computer about once a month so bills/tax expenses can be read. No bank connector. Do not move money. Do not start login until he names the bank and says go.
+  - Todo (chat until A2P): 1 Gmail card sign-in jeffgunson27@gmail.com 2 which bank 3 confirm Tracie email 4 other bill names besides Electric 5 medication whose list and names 6 Hotmail sign-in 7 jeff@gunson.us sign-in 8 jeff@citizensratification.com sign-in. No padding. Next with no info keeps these.
+  - GitHub device login completed so hourly backups land in this hub.
 - Other bots on this computer:
   - New Bot (empty)
   - Bot Manager (Live)
