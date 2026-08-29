@@ -9,4 +9,6 @@ Rules:
 - If new information would change something already stored or decided, check with Jeff first.
 - Do not risk PC or phone access. GitHub work happens on the bot's computer only.
 - Do not put passwords or tokens in this repo.
+- Ask one question at a time. Do not stack questions.
 - Planned specialist fleet (exactly 14): Bills, Banking, Credit, Tax, CRA, Email, Txt messages, Gideon, Church, Calendar, Family, Pictures, Files, Social Media. Bot Manager designs and tracks them.
+- Gideon (also Gideons) is Jeff's Christian ministry volunteer work, not a second church bot.
