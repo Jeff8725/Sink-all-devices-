@@ -14,3 +14,4 @@ Updated: 2026-08-28
 | CRA | bots/cra | Live | Tracks Canada Revenue Agency facts |
 | Email | bots/email | Live | Tracks inboxes and routes mail |
 | Txt messages | bots/txt-messages | Live | Tracks personal texts; does not send unless yes |
+| Gideon | bots/gideon | Live | Tracks Gideons volunteer work |
