@@ -8,3 +8,4 @@ Updated: 2026-08-28
 | Work | bots/work | Active | Runs the other bots; hourly non-secret backup |
 | Bot Manager | bots/bot-manager | Live | Designs and tracks the 14 specialist bots |
 | Bills | bots/bills | Live | Tracks household bills and due dates |
+| Banking | bots/banking | Live | Tracks bank accounts; pays only after a yes |
