@@ -1,6 +1,6 @@
 # Master Index — Grok Bot Projects
 
-Updated: 2026-08-28
+Updated: 2026-08-29
 
 | Bot | Folder | Status | Purpose |
 | --- | --- | --- | --- |
@@ -16,3 +16,4 @@ Updated: 2026-08-28
 | Txt messages | bots/txt-messages | Live | Tracks personal texts; does not send unless yes |
 | Gideon | bots/gideon | Live | Tracks Gideons volunteer work |
 | Church | bots/church | Live | Tracks congregation and church facts |
+| Calendar | bots/calendar | In Progress | Shared Jeff and Tracie calendar |
