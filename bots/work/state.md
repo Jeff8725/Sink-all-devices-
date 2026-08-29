@@ -1,6 +1,6 @@
 # Work — latest snapshot
 
-Updated: 2026-08-29 12:51 PM CT
+Updated: 2026-08-29 1:58 PM CT
 
 - Status: Active
 - GitHub: Jeff8725
@@ -22,7 +22,10 @@ Updated: 2026-08-29 12:51 PM CT
   - Specialist fleet is complete. No more new specialists. No Ranch bot until Jeff says.
   - Fleet: Bills, Banking, Credit, Tax, CRA, Email, Txt messages, Gideon, Church, Calendar, Family, Pictures, Files, Social Media, plus Medication.
   - Ask one question at a time across the fleet, or learn from a real connected source.
-  - Gideon is Gideons, the Christian ministry Jeff volunteers with. On 2026-08-29 he uploaded The Gideons International Operations Manual 2024-2025 (210 pages). Copies live on Work's computer under /workspace/gideon/. He said we will do and manage everything in that manual. Website login still pending (he signs in on Work's computer when ready). Do not invent camp, officer, or local Gideons facts. Manual files are not copied into this hub snapshot.
+  - Gideon is Gideons, the Christian ministry Jeff volunteers with. On 2026-08-29 he uploaded The Gideons International Operations Manual 2024-2025 (210 pages). Copies live on Work's computer under /workspace/gideon/. He said we will do and manage everything in that manual. Manual files are not copied into this hub snapshot.
+  - Gideons theConnection (https://theconnection.gideons.org) is signed in on Work's computer as jeffgunson@hotmail.com. Jeff is Camp Webmaster of Henderson camp U42132, Texas S42, since 2011-05-12. Display name Mr Jeffrey Grant Gunson. He is a member of Emmanuel Baptist Church. Tracie A Gunson is Camp Auxiliary President (do not text her, do not put her on tech). Detailed portal scan lives on Work's computer under /workspace/gideon/theconnection-scan.md (not copied here). Do not invent other officers or camp facts. Never ask for or see the password.
+  - GideonNow is the phone app for the same theConnection account, not a second membership. Corporate apparel is the merch store. Jeff plans a second-login walk-through after theConnection. Do not invent why there are two theConnection username entries.
+  - Henderson camp U42132 is responsible for uploading all Henderson camp events on theConnection (including GAT, ALE, and others found); do not invent dates for events still marked to-be-scheduled.
   - CRA is Citizens Ratification Amendment, not Canada Revenue. Jeff confirmed 2026-08-29. CRA bot description was updated. Do not invent CRA work.
   - Jeff Gunson (USAF Ret.) is President of Citizens Ratification Inc. (CRI), a temporary Texas nonprofit for the CRA. Website CitizensRatification.com. CRI dissolves when the Citizens Ratification Branch is fully implemented. White paper locked July 28, 2026. CRI Bylaws adopted July 15, 2026. Do not rewrite CRA files unless Jeff says yes to that exact change.
   - On 2026-08-29 Jeff uploaded six CRA files (white paper locked July 28 2026, active master with amendment text and AI-edit restriction, project summary, Citizen Commons, CRI Bylaws July 15 2026, and a July 16 2026 Trump speech transcript). Copies live on Work's computer under /workspace/cra/. Do not treat the Trump transcript as locked CRA doctrine unless he says so. He said he has hundreds more CRA papers; six files are enough for now. Never guess remaining papers, officers, filings, or numbers. Those files are not copied into this hub snapshot.
@@ -48,7 +51,7 @@ Updated: 2026-08-29 12:51 PM CT
   - Named emails: primary jeffgunson@hotmail.com (signed in on Work's computer); calendar Gmail jeffgunson27@gmail.com (Gmail connector connected); also jeff@gunson.us and jeff@citizensratification.com (Microsoft-style, postponed). Tracie email unconfirmed. Do not send mail unless he says yes.
   - Bank plan: Jeff signs in on Work's computer about once a month so bills/tax expenses can be read. No bank connector. Do not move money. Do not start login until he names the bank and says go.
   - One-at-a-time todo loop (chat until A2P): Jeff used next on Medication (whose list and names); keep that item. Current open setup items (no padding): 1) which bank 2) confirm Tracie email 3) bill names 4) medication whose list and names 5) jeff@gunson.us sign-in later 6) jeff@citizensratification.com sign-in later 7) iCloud sign-in once for Pictures and Files (do not start until Jeff says). No Gmail/Hotmail unless sessions break. No Electric. Next with no info keeps the current item. Credit stays open for more cards later (not a padded todo).
-  - Remaining empty specialist shells: Gideon and Church. CRA is good-enough for now with the six files (never guess the rest). Family, Pictures, Files, Social Media, Credit, Tax, and Gideon have been defined further since earlier snapshots.
+  - Remaining empty specialist shells: Church (church name now known as Emmanuel Baptist Church from theConnection; first-run still deferred). CRA is good-enough for now with the six files (never guess the rest). Gideon has Operations Manual plus theConnection scan; second login walk-through still planned. Family, Pictures, Files, Social Media, Credit, and Tax have been defined further since earlier snapshots.
   - Morning quiet stretch from about 6:24 AM CT on 2026-08-29 has passed; he has since used next in the todo loop.
   - GitHub device login completed so hourly backups land in this hub.
 - Other bots on this computer:
@@ -61,12 +64,12 @@ Updated: 2026-08-29 12:51 PM CT
   - CRA (Live; description now Citizens Ratification Amendment)
   - Email (Live)
   - Txt messages (Live)
-  - Gideon (Live; Operations Manual on Work's computer; website login pending)
-  - Church (In Progress; first-run deferred)
+  - Gideon (Live; Operations Manual on Work's computer; theConnection signed in and scanned; second login pending)
+  - Church (In Progress; first-run deferred; church name Emmanuel Baptist Church known from theConnection)
   - Calendar (Live; connector connected; quiet)
   - Medication (In Progress; first-run deferred)
   - Family (In Progress; first-run deferred; first names defined)
   - Pictures (In Progress; first-run deferred; iCloud)
   - Files (In Progress; first-run deferred; iCloud, no nicknames)
-  - Social Media (In Progress; first-run deferred; four CRA accounts complete)
+  - Social Media (Live; four CRA accounts complete; none connected yet)
 - Fleet: all specialists exist. Roster closed.

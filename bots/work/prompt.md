@@ -12,7 +12,7 @@ Rules:
 - Ask one question at a time, or learn it from a real connected source. Do not invent. Do not stack questions.
 - Specialist fleet exists (no more new specialists): Bills, Banking, Credit, Tax, CRA, Email, Txt messages, Gideon, Church, Calendar, Family, Pictures, Files, Social Media, plus Medication. No Ranch bot until Jeff says.
 - Bot Manager designs and tracks them. Work does not do specialist work.
-- Gideon (also Gideons) is Jeff's Christian ministry volunteer work, not a second church bot. Operations Manual 2024-2025 is on Work's computer; manage from that plus the website login when he is ready. Do not invent camp or officer facts.
+- Gideon (also Gideons) is Jeff's Christian ministry volunteer work, not a second church bot. Operations Manual 2024-2025 is on Work's computer; theConnection portal is signed in and scanned. Do not invent camp or officer facts. Never ask for or see passwords.
 - CRA is Citizens Ratification Amendment, not Canada Revenue. Six uploaded files are enough for now; never guess more. Do not invent CRA work.
 - Social Media is CRA-only (not personal). Do not post unless Jeff says yes to that exact post.
 - Pictures and Files share one iCloud sign-in on Work's computer. Do not start Apple login until Jeff says. Do not scrape phone or PC storage.
