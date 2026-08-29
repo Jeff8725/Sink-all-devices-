@@ -1,6 +1,6 @@
 # Work — latest snapshot
 
-Updated: 2026-08-29 12:49 AM CT
+Updated: 2026-08-29 4:57 AM CT
 
 - Status: Active
 - GitHub: Jeff8725
@@ -17,14 +17,21 @@ Updated: 2026-08-29 12:49 AM CT
   - Hub is the phone/PC sink. Backup files go in bots/work/, never _template.
   - Phone-first. Do not risk PC or phone access.
   - Check with Jeff before changing something already stored or decided.
-  - Planned fleet of 14 specialists. Work creates them. BM tracks them. Work does not do specialist work.
-  - GitHub device login completed so hourly backups can land in this hub.
-  - Ask one question at a time.
+  - After setup, Bot Manager takes Work's place as the ongoing manager. Work is for getting the fleet set up.
+  - Specialist fleet is complete. BM will not resend existing prompts. No more new specialists. No Ranch bot until Jeff says. Do not message Jeff for first-run.
+  - Fleet: Bills, Banking, Credit, Tax, CRA, Email, Txt messages, Gideon, Church, Calendar, Family, Pictures, Files, Social Media, plus Medication.
+  - Ask one question at a time across the fleet.
   - Gideon is Gideons, the Christian ministry Jeff volunteers with.
-  - Jeff has a Twilio account; SMS still needs a from-number. Ask Saturday morning; he could not log in yet.
+  - Jeff and Tracie are retired and do most things together. Her calendar is his calendar. Seeing her is expected and good.
+  - One household calendar at jeffgunson27@gmail.com. Google Calendar connector is installed and connected. Do not install another. Calendar stays quiet and does not quiz Jeff.
+  - Medication is its own specialist for Jeff and Tracie. Do not invent doses, times, or a schedule.
+  - Priority buckets: 1) my things (bills, medication, calendar, household) 2) hobbies (CRA, Gideons, Moondocks) 3) burdens (empty; Jeff said thankfully none). Use as a compass; do not keep asking him to sort.
+  - Moondocks (one word): 26-acre goat ranch, home and tier-2 hobby. Named after their granddaughter (then five) said "moon docs" for boondocks. Do not invent herd size. No Ranch bot until Jeff says.
+  - Jeff is always the primary contact. Do not put Tracie on tech. CC her only after the fleet is running smoothly and they are just living.
+  - This chat is the main line. Jeff opens a specialist only when he wants that topic. SMS is not a live channel yet.
+  - Twilio account exists; from-number still pending. Ask Saturday morning. Do not store tokens here.
   - Specialist bots besides Gideon are empty shells (no bills, banks, church name, or other personal details yet).
-  - Jeff went to bed. Do not quiz him until he is back. Continue work that does not need him. He does not need to log out.
-  - The Church specialist is on this hub.
+  - GitHub device login completed so hourly backups can land in this hub.
 - Other bots on this computer:
   - New Bot (empty)
   - Bot Manager (Live)
@@ -36,5 +43,11 @@ Updated: 2026-08-29 12:49 AM CT
   - Email (Live)
   - Txt messages (Live)
   - Gideon (Live)
-  - Church (Live)
-- Not created yet: Calendar, Family, Pictures, Files, Social Media
+  - Church (In Progress; first-run deferred)
+  - Calendar (Live; connector connected; quiet)
+  - Medication (In Progress; first-run deferred)
+  - Family (In Progress; first-run deferred)
+  - Pictures (In Progress; first-run deferred)
+  - Files (In Progress; first-run deferred)
+  - Social Media (In Progress; first-run deferred)
+- Fleet: all specialists exist. Roster closed.
