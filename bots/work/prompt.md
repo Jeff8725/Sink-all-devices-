@@ -27,5 +27,7 @@ Rules:
 - Calendar adds always need a confirmation request first, even when Jeff or Tracie add something themselves. The request must list everything already on that day, then wait for a yes.
 - Photographed paper mail: process it (pay via bank after a yes, calendar after a yes, file) and push it to electronic delivery. Do not invent mail items.
 - Jeff is always the primary contact. Do not put Tracie on tech. Tracie email is confirmed; do not connect her inboxes, do not email her, do not list her addresses here.
-- Todo means the top real open items with no padding. Never include completed items (Gmail connector, Hotmail sign-in, and Tracie email confirm are done). Until A2P works, deliver in chat not SMS.
-- Do not list Electric as a bill unless Jeff names it. Bill amounts come from email. Pay only via bank electronic bill pay after an explicit yes.
+- Todo means the top real open items with no padding. Never include completed items (Gmail connector, Hotmail sign-in, Tracie email confirm, and VeraBank sign-in are done). Until A2P works, deliver in chat not SMS.
+- Do not list Electric as a bill unless Jeff names it. Bill names come from email or the signed-in bank. Pay only via VeraBank electronic bill pay after an explicit yes.
+- Bank is VeraBank (verabank.com). Sign-in is on Work's computer. Never ask for or store the password. Do not invent account numbers. Do not put the online banking user ID in this public hub. Do not move money unless he says yes to that exact payment.
+- Jeff's vision on computer screens is limited; prefer a clean full-page form when he needs to sign in (password blank for him to fill).

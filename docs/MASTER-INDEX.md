@@ -1,6 +1,6 @@
 # Master Index — Grok Bot Projects
 
-Updated: 2026-08-29
+Updated: 2026-08-29 (evening)
 
 | Bot | Folder | Status | Purpose |
 | --- | --- | --- | --- |
@@ -11,7 +11,7 @@ Updated: 2026-08-29
 | Banking | bots/banking | Live | Tracks bank accounts; pays only after a yes |
 | Credit | bots/credit | Live | Tracks cards and credit-file facts |
 | Tax | bots/tax | Live | Tracks US/state tax facts; does not file |
-| CRA | bots/cra | Live | Tracks Canada Revenue Agency facts |
+| CRA | bots/cra | Live | Tracks Citizens Ratification Amendment facts |
 | Email | bots/email | Live | Tracks inboxes and routes mail |
 | Txt messages | bots/txt-messages | Live | Tracks personal texts; does not send unless yes |
 | Gideon | bots/gideon | Live | Tracks Gideons volunteer work |
