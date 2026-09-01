@@ -1,31 +1,40 @@
 # Work — latest snapshot
 
-Updated: 2026-08-30 1:16 AM CT
+Updated: 2026-08-31 ~7:15 PM CT
 
 - Status: Active
 - GitHub: Jeff8725
 - Hub: https://github.com/Jeff8725/Sink-all-devices-
 - This folder: bots/work/
 - Profile: Work. Description: "I want to link Get-hub to grok"
-- Hourly backup: on (non-secret state only; every hour at :49 CT)
+- Daily hub backup: on (non-secret state only; 7:00 PM CT if a worth-it batch)
 - Secrets / tokens / full chat transcripts: not stored here
 - Skills: Keep contacts current (id keep-contacts-current)
 - Routines:
-  - Hourly hub backup (enabled, every hour at :49 CT)
-  - Watch A2P campaign (enabled, 9:00 AM and 4:00 PM CT; delete when approved/failed or after 2026-09-12)
-  - Ask current todo tomorrow (enabled, daily 8:00 AM CT; stay quiet if Jeff said he cannot answer that morning)
-  - Fleet and MB improvement (enabled, weekdays 10:00 AM CT; one suggestion at a time; RoboForm stays disconnected until an explicit yes)
+  - Daily hub backup (enabled, 7:00 PM CT; only if a worth-it batch of ~50 KB non-secret changed content or 3+ real files; not hourly; overwrite bots/work/, no dated dump folders)
+  - Daily first-contact status (enabled, 8:00 AM CT; stay quiet if Jeff said he cannot answer that morning)
   - Daily email inbox (enabled, daily 8:00 AM CT; Gmail connector plus Hotmail in the browser; stay quiet if nothing to report)
+  - End-of-cycle max grok.com Heavy (enabled, Sep 7 9:34 AM CT; last 6 hours of the grok.com Heavy week on real required work only)
+  - Fleet and MB improvement (PAUSED; was weekdays 10:00 AM CT; one suggestion at a time; RoboForm stays disconnected until an explicit yes)
 - Memory (non-secret highlights):
-  - Hub is the phone/PC sink. Backup files go in bots/work/, never _template.
+  - Hub is the phone/PC sink. Backup files go in bots/work/, never _template. One current copy on this public hub is enough.
   - Phone-first. Do not risk PC or phone access.
   - Check with Jeff before changing something already stored or decided.
-  - After setup, Bot Manager takes Work's place as the ongoing manager. Work is for getting the fleet set up. Work must tell Jeff when it is time to move from Work to Bot Manager. Setup is not handed off yet.
+  - Data Governor is the top bot (keep everything running). Bot Manager (MB) is second (keep it running well). Do not invert. Fleet-control functions including Governor belong on MB, not Work. Work keeps talking with Jeff until Work says it is time to move him to MB. Setup is not handed off yet. Work is for getting the fleet set up.
+  - On 2026-08-31 Jeff said stop all bots, then said use this bot (Work) and continue. Specialists stay PARK/idle and must not message him. Work continues Hotmail filing, daily first-contact, A2P/SMS watch, hub backup. Do not fan out to the fleet unless he says.
+  - Learn by his decisions: a yes, no, keep, spam-or-not, add-contact, or method call is standing guidance for the next like case. Do not re-ask the same kind of question once he has decided.
+  - Jeff likes to know why, not only the status.
   - Specialist fleet is complete. No more new specialists. No Ranch bot until Jeff says.
-  - Fleet: Bills, Banking, Credit, Tax, CRA, Email, Txt messages, Gideon, Church, Calendar, Family, Pictures, Files, Social Media, plus Medication.
+  - Fleet: Bills, Banking, Credit, Tax, CRA, Email, Txt messages, Gideon, Church, Calendar, Family, Pictures, Files, Social Media, plus Medication. All specialists PARK.
   - Ask one question at a time across the fleet, or learn from a real connected source.
-  - Work and Bot Manager always look for ways to improve every bot and its processes (especially MB), one suggestion at a time, so the fleet does not fall behind. Secure workarounds (example: RoboForm) stay off unless Jeff says yes to that exact step.
-  - Every account the fleet touches gets a private contact card on Work's computer (not this hub) with process notes. Do not invent phones, emails, or account numbers. Prefer official sites and what Jeff shows. Never store passwords in contact notes.
+  - Plans LIVE: SuperGrok Heavy $300 via Apple, renews Sep 30. Cursor Pro Plus $60 web (invoice TP7R8GMB-0002), period Aug 27–Sep 27. Grok Bot usage is separate from both. Do not invent used percents, hours, or GB.
+  - grok.com Weekly SuperGrok Heavy Limit: 0% used as of Aug 31 ~6:01 PM CT; resets Mon Sep 7 at 3:34 PM America/Chicago. End-of-cycle max for that pool: Sep 7 9:34 AM–3:34 PM CT on real required work only. Grok Bot weekly % is separate and still unknown. Do not redeem the free usage reset or spend Extra Usage Credits unless Jeff says yes. Extra Usage Credits $253.56 noted on the live photo; Auto top-up exists; do not spend unless yes.
+  - Unpublished plan limits may be estimated from online data and must be labeled ESTIMATE vs OFFICIAL. A live Usage & Billing meter replaces estimates. Governor plan-limits table lives at bots/work/data-governor/plan-limits.md in this snapshot.
+  - Every todo list starts with Governor used vs available (total data of all kinds this period, and how much is left). Source is Data Governor / Bot Manager. Do not invent a cap.
+  - Log every granted Bot slice as low / medium / high / extreme. Log file /workspace/data-governor/slice-log.md (copied into this snapshot under data-governor/). Week rollup on the Governor todo header.
+  - Governor ticks weekdays 8am / 1pm / 5pm CT. Specialists parked to save Heavy Bot quota.
+  - Hub backups: daily 7:00 PM CT only if a worth-it batch (~50 KB non-secret changed content or 3+ real files). Not hourly. Do not dump all data every run.
+  - Every account the fleet touches gets a private contact card on Work's computer (not this hub) with process notes. Do not invent phones, emails, or account numbers. Prefer official sites and what Jeff shows. Never store passwords in contact notes. More private contact cards exist on Work's computer; do not list unknown-sender names or emails here.
   - RoboForm is locked as the password safety zone. Path: official RoboForm Chrome extension on Work's computer (Chrome Web Store id pnlccmojcmeohlpggmfnbbiapkmbliob); Jeff types the master password on that computer; Work keeps a private names-only function-to-login list current. Never copy passwords into chat, files, or this hub. No Grok Bot RoboForm plugin. Do not install a different password manager. Began installing the official add-on; connect is still not yes until Jeff says yes to that exact step and signs in on Work's computer.
   - Gideon is Gideons, the Christian ministry Jeff volunteers with. On 2026-08-29 he uploaded The Gideons International Operations Manual 2024-2025 (210 pages). Copies live on Work's computer under /workspace/gideon/. He said we will do and manage everything in that manual. Manual files are not copied into this hub snapshot.
   - Gideons theConnection (https://theconnection.gideons.org) is signed in on Work's computer as jeffgunson@hotmail.com. Jeff is Camp Webmaster of Henderson camp U42132, Texas S42, since 2011-05-12. Display name Mr Jeffrey Grant Gunson. Member number 684879. He is a member of Emmanuel Baptist Church. Tracie A Gunson is Camp Auxiliary President (do not text her, do not put her on tech). Detailed portal scan lives on Work's computer under /workspace/gideon/theconnection-scan.md (not copied here). Do not invent other officers or camp facts. Never ask for or see the password.
@@ -53,40 +62,39 @@ Updated: 2026-08-30 1:16 AM CT
   - Moondocks (one word): 26-acre goat ranch, home and tier-2 hobby. Named after their granddaughter (then five) said "moon docs" for boondocks. No Ranch bot until Jeff says.
   - Jeff is always the primary contact. Do not put Tracie on tech. CC her only after the fleet is running smoothly.
   - Tracie email is confirmed as of 2026-08-29. Do not connect her inboxes. Do not email or text her. Do not put her on tech. Addresses are not listed in this public snapshot.
-  - This chat is the main line. SMS not live yet (outbound blocked on A2P; inbound not hooked yet).
-  - Twilio from-number saved. Auth token stored securely (not here). Test text failed (A2P unfinished). Sole-proprietor A2P campaign rewritten as a generic program (personal names and "his own phone" removed) and resubmitted; status IN_PROGRESS as of last watch. On 2026-08-29 Jeff said the campaign has taken too long and he does not think Twilio will approve it. Keep watching until approved/failed or the 2026-09-12 deadline. Do not retry texts until approved and Jeff says yes.
-  - Once A2P works, Jeff said the fleet may text him anytime; unnecessary texts have no downside; learn by example what not to text. Do not text Tracie. Do not text other people unless he says yes to that exact send.
-  - Jeff asked to be texted when A2P is approved. If it fails again, tell him in this chat and also email jeffgunson@hotmail.com from jeffgunson27@gmail.com that texts are still blocked. Chat remains live. Do not email Tracie.
-  - While A2P is blocked, email that would have been a text to jeffgunson@hotmail.com from the connected Gmail jeffgunson27@gmail.com. Do not send unless the message is one that would have been a text. If A2P never approves, do not switch text providers unless he says yes to that exact step.
+  - This chat is the main line. SMS not live (Twilio A2P failed). Inbound not hooked yet.
+  - Twilio from-number +19034707851. Auth token stored securely (not here). Test text failed. Sole-proprietor A2P campaign failed; do not retry texts until a working provider is live and Jeff says yes to a send. Canceling Twilio is queued pending a Telnyx toll-free replacement; do not cancel Twilio until the replacement is ready; do not switch providers unless he says yes to that exact step. Telnyx is a kept todo (waiting Jeff yes).
+  - Once a working text provider exists, Jeff said the fleet may text him anytime; unnecessary texts have no downside; learn by example what not to text. Do not text Tracie. Do not text other people unless he says yes to that exact send. Text is still first when that provider works.
+  - While texts are blocked, email that would have been a text to jeffgunson@hotmail.com from the connected Gmail jeffgunson27@gmail.com. Do not send unless the message is one that would have been a text. Chat remains live. Do not email Tracie.
   - Privacy/terms live on hub Pages: sms-privacy.html and sms-terms.html.
   - Do not list Electric as a tracked bill (miscommunication). Bill names come from Jeff, email, or the signed-in bank. Pay only via VeraBank Bill Pay after Jeff says yes to that exact payment. Amounts come from email or bank, not typing.
-  - Named emails: primary jeffgunson@hotmail.com (signed in on Work's computer); calendar Gmail jeffgunson27@gmail.com (Gmail connector connected); also jeff@gunson.us and jeff@citizensratification.com (Microsoft-style, postponed). Do not send mail unless he says yes.
-  - Email job locked 2026-08-29 evening: delete spam; reply only to people already in private contacts; ask Jeff one unknown sender at a time and add a contact only after he validates they are a real person; never auto-reply to Tracie or to vendor/bank/store receipts; never send mail that spends money or changes a decided fact unless he says yes to that exact send. After a handled message, file it into a folder named for that contact; inbox holds only active issues (same on every account, including accounts added later). Do not invent contact folders. Unknown senders wait until Jeff validates them. Block/spam obvious junk so they do not return; do not auto-block banks, Gideons people, Tracie, or mail that is still an active issue. Gmail (jeffgunson27@gmail.com, connector): first pass marked 26 promo junk as spam (no replies); filing pass then created 14 vendor/contact labels and filed 134 handled threads off inbox; inbox after filing about 23 threads / 1 unread; no mail sent; no Gmail drafts. Remaining unread/unknown-person threads parked privately to ask one at a time (do not list those people's names or emails in this hub). Hotmail (jeffgunson@hotmail.com, browser on Work's computer): first look about 1,295 unread; filing continued overnight — later chunks brought unread to about 907 as of ~1:10 AM CT 2026-08-30. Added more real-sender folders (including Valvoline, Amazon, PayPal, Experian, Tractor Supply, Network Solutions, GoDaddy, and others already noted) and filed handled vendor/Gideons/Tracie mail into contact folders; junked/blocked more obvious promo and invite spam (junk folder not emptied). One bank-vendor account-closure warning left in Hotmail inbox as an active question (parked privately; do not transact unless Jeff says yes to that exact step; do not invent account numbers). Possible lookalike/phish and other unknown-sender threads also left in inbox for Jeff (parked privately; do not list those people here). Hotmail filing still in progress. Do not copy Hotmail screenshots or private contact files into this hub. jeff@gunson.us and jeff@citizensratification.com still later. Daily 8:00 AM CT inbox routine saved.
+  - Named emails: primary jeffgunson@hotmail.com (signed in on Work's computer); calendar Gmail jeffgunson27@gmail.com (Gmail connector connected); also jeff@gunson.us and jeff@citizensratification.com (Microsoft-style, postponed). SMS receive 903-646-1735. Do not send mail unless he says yes.
+  - Email job locked 2026-08-29 evening and tightened 2026-08-31: delete spam; reply only to people already in private contacts; catch-up replies locked to the last two weeks only; going forward, reply to everything new from real people already in contacts; ask Jeff one unknown sender at a time and add a contact only after he validates they are a real person; never auto-reply to Tracie or to vendor/bank/store receipts; never send mail that spends money or changes a decided fact unless he says yes to that exact send. After a handled message, file it into a folder named for that contact; inbox holds only active issues (same on every account, including accounts added later). Do not invent contact folders. Unknown senders wait until Jeff validates them. Block and delete obvious spam so they do not return; if unsure, put it on the todo list for Jeff (do not guess). Do not auto-block banks, Gideons people, Tracie, Twilio, Google security, MyChart, or mail that is still an active issue. Gmail (jeffgunson27@gmail.com, connector): first pass marked 26 promo junk as spam (no replies); filing pass then created 14 vendor/contact labels and filed 134 handled threads off inbox; inbox after filing about 23 threads / 1 unread; no mail sent; no Gmail drafts. Remaining unread/unknown-person threads parked privately to ask one at a time (do not list those people's names or emails in this hub). Hotmail (jeffgunson@hotmail.com, browser on Work's computer): first look about 1,295 unread; filing continued; unread roughly 870→717 the morning of 2026-08-31 (approximate; do not invent a later count). Added more real-sender folders and filed handled vendor/Gideons/Tracie mail into contact folders; junked/blocked more obvious promo and invite spam (junk folder not emptied). John Foster last-14-days replies (3) sent 2026-08-31. One bank-vendor account-closure warning left in Hotmail inbox as an active question (parked privately; do not transact unless Jeff says yes to that exact step; do not invent account numbers). Possible lookalike/phish and other unknown-sender threads also left in inbox for Jeff (parked privately; do not list those people here). Hotmail filing still in progress. Do not copy Hotmail screenshots or private contact files into this hub. jeff@gunson.us and jeff@citizensratification.com still later. Daily 8:00 AM CT inbox routine saved.
   - Bank: VeraBank (verabank.com). Official routing 111903151. Henderson Downtown 201 W. Main St. 903-657-8521; Henderson South 79 2320 Hwy. 79 S. 903-657-1444; 24/7 877-566-2621; lost debit 800-530-2265. Contact card and public bill-pay notes live on Work's computer under /workspace/contacts/ (not copied here). Online banking signed in on Work's computer as of 2026-08-29 evening. Online banking user ID is saved in private memory only (not listed here). Do not store the password. Do not invent or list account numbers in this hub. Do not move money unless he says yes. Learn bill names from Bill Pay and regular payments; do not quiz him for bill names. Do not invent payees.
   - Permanent permission (2026-08-30): pull VeraBank account history, deposits, and Bill Pay setup from the signed-in session without asking each time. Do not pay a bill or move money unless he says yes to that exact payment. Pull finished 2026-08-29 evening: history including 2025, deposits/credits, and Bill Pay payees saved privately on Work's computer under /workspace/contacts/ (not this hub). Do not put account numbers or last-fours here.
   - Jeff's vision on computer screens is limited; he may not see small controls such as backspace. Prefer a clean full-page sign-in form with password blank for him to fill.
-  - Daily first-contact (locked 2026-08-30): first contact with Work each day is a status report on everything currently being done plus the top ten real todos. While he is in the Work chat, deliver it there. When he is not, send ASAP by text (903-646-1735) then email (jeffgunson@hotmail.com from jeffgunson27@gmail.com) then this chat. Do not invent items. Do not include completed items. Do not text or email Tracie. One-at-a-time still applies after that first daily report.
-  - Always todo process (locked 2026-08-30): while he is active in Work chat, do todos there. As soon as he is not, deliver ASAP text then email then chat. The list must continue even if a path fails (A2P still blocked, so text will not deliver yet; email is the working fallback). Do not invent items. Do not text or email Tracie.
-  - One-at-a-time todo loop: current open setup items (no padding, no completed items): 1) Area 9 phones (kept when he said next) 2) bill names (learn from VeraBank / email; do not quiz) 3) medication whose list and names (kept when he said next) 4) Lowe's remaining purchase pages (121 of 231; then numbered 2025 tax PDF; do not file unless yes) 5) jeff@gunson.us sign-in later 6) jeff@citizensratification.com sign-in later 7) iCloud sign-in once for Pictures and Files (do not start until Jeff says). Parked email unknown-sender questions exist privately; do not list those people here. Tracie email confirm is done; do not connect. VeraBank sign-in is done; do not re-ask unless the session dies. Tractor Supply purchase pull is done. Gmail connector and Hotmail sign-in are done; do not re-ask unless a session dies. No Electric. Next with no info keeps the current item. Credit stays open for more cards later (not a padded todo).
-  - Remaining empty specialist shells: Church (church name now known as Emmanuel Baptist Church from theConnection; first-run still deferred). CRA is good-enough for now with the six files (never guess the rest). Gideon has Operations Manual plus theConnection scan of main areas (camp, churches, members, scripture numbers, officers); not every report or resource PDF was scanned. GideonNow and apparel store skipped. Family, Pictures, Files, Social Media, Credit, Tax, Banking, and Bills have been defined further since earlier snapshots.
-  - Morning quiet stretch from about 6:24 AM CT on 2026-08-29 has passed; he has since used next in the todo loop.
-  - GitHub device login completed so hourly backups land in this hub.
+  - Daily first-contact (locked 2026-08-30): first contact with Work each day is a status report on everything currently being done plus the top ten real todos. While he is in the Work chat, deliver it there. When he is not, send ASAP by text (903-646-1735) then email (jeffgunson@hotmail.com from jeffgunson27@gmail.com) then this chat. Until texts work, email then chat. Pithy: Governor facts only at the top, then the list, then pithy recommendations. Keep means stay on the list until completed. When he replies to a todo-list email, answer that Hotmail thread. Do not invent items. Do not include completed items. Do not text or email Tracie. One-at-a-time still applies after that first daily report.
+  - Always todo process (locked 2026-08-30, delivery updated 2026-08-31): while he is active in Work chat, do todos there. As soon as he is not, deliver ASAP text then email then chat. The list must continue even if a path fails (Twilio A2P failed, so text will not deliver yet; email is the working fallback). Do not invent items. Do not text or email Tracie.
+  - One-at-a-time todo loop: current open kept items (no padding, no completed items): Bluevine; John's mail (handled for last 14 days; keep if still listed); medication names; Area 9 phones; Telnyx (waiting Jeff yes). Also still open: Lowe's remaining purchase pages (121 of 231; then numbered 2025 tax PDF; do not file unless yes); jeff@gunson.us sign-in later; jeff@citizensratification.com sign-in later; iCloud sign-in once for Pictures and Files (do not start until Jeff says). Parked email unknown-sender questions exist privately; do not list those people here. Tracie email confirm is done; do not connect. VeraBank sign-in is done; do not re-ask unless the session dies. Tractor Supply purchase pull is done. Gmail connector and Hotmail sign-in are done; do not re-ask unless a session dies. No Electric. Next with no info keeps the current item. Credit stays open for more cards later (not a padded todo).
+  - Remaining empty specialist shells: Church (church name now known as Emmanuel Baptist Church from theConnection; first-run still deferred). CRA is good-enough for now with the six files (never guess the rest). Gideon has Operations Manual plus theConnection scan of main areas (camp, churches, members, scripture numbers, officers); not every report or resource PDF was scanned. GideonNow and apparel store skipped. Family, Pictures, Files, Social Media, Credit, Tax, Banking, and Bills have been defined further since earlier snapshots. Specialists stay PARK unless MB grants a slice.
+  - GitHub device login completed so hub backups land in this hub.
 - Other bots on this computer:
-  - New Bot (empty)
-  - Bot Manager (Live)
-  - Bills (Live)
-  - Banking (Live)
-  - Credit (Live)
-  - Tax (Live)
-  - CRA (Live; description now Citizens Ratification Amendment)
-  - Email (Live)
-  - Txt messages (Live)
-  - Gideon (Live; Operations Manual on Work's computer; theConnection signed in and scanned; GideonNow and apparel store not needed)
-  - Church (In Progress; first-run deferred; church name Emmanuel Baptist Church known from theConnection)
-  - Calendar (Live; connector connected; quiet)
-  - Medication (In Progress; first-run deferred)
-  - Family (In Progress; first-run deferred; first names defined)
-  - Pictures (In Progress; first-run deferred; iCloud)
-  - Files (In Progress; first-run deferred; iCloud, no nicknames)
-  - Social Media (Live; four CRA accounts complete; none connected yet)
-- Fleet: all specialists exist. Roster closed.
+  - Work (Active)
+  - Bot Manager (Live; owns Data Governor)
+  - Data Governor (function of MB; Active; ticks weekdays 8am / 1pm / 5pm CT)
+  - Bills (PARK)
+  - Banking (PARK)
+  - Credit (PARK)
+  - Tax (PARK)
+  - CRA (PARK; description Citizens Ratification Amendment)
+  - Email (PARK; Work continues Hotmail filing)
+  - Txt messages (PARK)
+  - Gideon (PARK; Operations Manual on Work's computer; theConnection signed in and scanned; GideonNow and apparel store not needed)
+  - Church (PARK; first-run deferred; church name Emmanuel Baptist Church known from theConnection)
+  - Calendar (PARK; connector connected; quiet)
+  - Medication (PARK; first-run deferred)
+  - Family (PARK; first-run deferred; first names defined)
+  - Pictures (PARK; first-run deferred; iCloud)
+  - Files (PARK; first-run deferred; iCloud, no nicknames)
+  - Social Media (PARK; four CRA accounts complete; none connected yet)
+- Fleet: all specialists exist. Roster closed. Specialists PARK. Do not list last-fours.
