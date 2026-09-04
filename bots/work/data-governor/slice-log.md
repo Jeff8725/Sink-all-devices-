@@ -24,3 +24,5 @@ End-of-cycle max (Jeff 2026-08-31): last 6 hours of each cycle, max real work + 
 | 2026-09-01 morning | Work | Telnyx signup/10DLC desktop | high | Jeff in chat, required SMS |
 | 2026-09-01 11:02–1:02 PM | Work | Required 2h window: Telnyx 10DLC, usage meters, Hotmail filing, Lowe's tax pages | high | Jeff 11:02 AM CT; conservation after 1:02; specialists off Jeff chat |
 | 2026-09-01 1:10 PM | MB | Governor tick — PARK conservation after 2h HIGH window | low | window ended 1:02; Work standing only; specialists PARK |
+| 2026-09-01 ~9:25–9:40 PM | Work | Hotmail last-14-days (712→702) | low–medium | 14 filed; 1 John Foster reply; unknowns parked |
+| 2026-09-02 ~5:56–6:01 AM | Work | Amex 2025 activity + year-end PDF | high | [card mask omitted] [amount omitted]; no VISA |

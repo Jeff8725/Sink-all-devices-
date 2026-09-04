@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About | Citizens Ratification</title>
+
+<style>
+:root{--navy:#0a1628;--gold:#c9a227;--white:#ffffff;--light:#f8f9fa;--text:#1a1a1a}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.6;color:var(--text);background:var(--white)}
+.header{background:var(--navy);color:var(--white);padding:0.75rem 1rem;position:sticky;top:0;z-index:1000;box-shadow:0 2px 8px rgba(0,0,0,.2)}
+.header-inner{max-width:1100px;margin:0 auto;display:flex;align-items:center;justify-content:space-between}
+.logo{font-size:1.25rem;font-weight:700;letter-spacing:.5px}
+.logo span{color:var(--gold)}
+nav{display:flex;gap:1.25rem}
+nav a{color:var(--white);text-decoration:none;font-size:.95rem;font-weight:500}
+nav a:hover,.nav-active{color:var(--gold)}
+.hamburger{display:none;background:none;border:none;color:var(--white);font-size:1.75rem;cursor:pointer}
+.mobile-nav{display:none;background:var(--navy);padding:1rem;flex-direction:column;gap:.75rem}
+.mobile-nav a{color:var(--white);text-decoration:none;padding:.5rem 0;border-bottom:1px solid rgba(255,255,255,.1)}
+.mobile-nav.show{display:flex}
+.container{max-width:900px;margin:0 auto;padding:1.5rem 1rem}
+.video-wrap{position:relative;padding-bottom:56.25%;height:0;overflow:hidden;background:#000;margin-bottom:1.5rem;border-radius:8px}
+.video-wrap iframe{position:absolute;top:0;left:0;width:100%;height:100%;border:0}
+.gold-btn{display:inline-block;background:var(--gold);color:var(--navy);font-weight:700;padding:.75rem 1.75rem;border-radius:6px;text-decoration:none;margin:0 0 1.5rem;font-size:1.05rem;transition:opacity .2s}
+.gold-btn:hover{opacity:.9}
+h1{font-size:1.85rem;color:var(--navy);margin-bottom:1rem}
+.intro-para{font-size:1.1rem;margin-bottom:2rem;padding:1.25rem;background:var(--light);border-left:4px solid var(--gold);border-radius:0 6px 6px 0}
+h2{font-size:1.35rem;color:var(--navy);margin:2rem 0 0.5rem}
+p{margin-bottom:1.25rem}
+.footer{background:var(--navy);color:#ccc;padding:2rem 1rem;margin-top:3rem;font-size:.9rem}
+.footer-inner{max-width:900px;margin:0 auto;text-align:center}
+.footer a{color:var(--gold);text-decoration:none}
+.footer p{margin-bottom:.5rem}
+@media(max-width:768px){
+nav{display:none}
+.hamburger{display:block}
+h1{font-size:1.55rem}
+.container{padding:1rem}
+}
+</style>
+</head>
+<body>
+<header class="header">
+<div class="header-inner">
+<div class="logo">Citizens <span>Ratification</span></div>
+<nav>
+<a href="index.html">Home</a>
+<a href="01-support.html">Support</a>
+<a href="02-cra.html">CRA</a>
+<a href="03-crb.html">CRB</a>
+<a href="04-cri.html">CRI</a>
+<a href="05-how.html">How It Works</a>
+<a href="06-rebuttals.html">Rebuttals</a>
+<a href="07-documents.html">Documents</a>
+<a href="08-about.html" class="nav-active">About</a>
+</nav>
+<button class="hamburger" onclick="document.querySelector('.mobile-nav').classList.toggle('show')" aria-label="Menu">☰</button>
+</div>
+<div class="mobile-nav">
+<a href="index.html">Home</a>
+<a href="01-support.html">Support</a>
+<a href="02-cra.html">CRA</a>
+<a href="03-crb.html">CRB</a>
+<a href="04-cri.html">CRI</a>
+<a href="05-how.html">How It Works</a>
+<a href="06-rebuttals.html">Rebuttals</a>
+<a href="07-documents.html">Documents</a>
+<a href="08-about.html">About</a>
+</div>
+</header>
+
+<div class="container">
+<div class="video-wrap">
+  <div id="player"></div>
+</div>
+
+<a href="08-about.txt" class="gold-btn">Read</a>
+
+<h1>08 – About</h1>
+
+<div class="intro-para">
+Temporary nonpartisan nonprofit. Founder background, contacts, nonpartisan rule, privacy.
+</div>
+
+<section>
+<h2>08.01 Founder Background</h2>
+<p>Jeff Gunson (USAF Ret.). Career in military aviation electronics and FAA. Began CRA work in 2018.</p>
+</section>
+
+<section>
+<h2>08.02 Official Contact Channels</h2>
+<p>Phone (903) 646-1735 · Email JeffGunson@hotmail.com · Website citizensratification.com</p>
+</section>
+
+<section>
+<h2>08.03 Social Links</h2>
+<p>Official channels only through the website. All communications originate from the contacts above.</p>
+</section>
+
+<section>
+<h2>08.04 Nonpartisan Statement</h2>
+<p>Strictly nonpartisan. Serves all citizens equally. No party or ideology.</p>
+</section>
+
+<section>
+<h2>08.05 Privacy Practices</h2>
+<p>Anonymous IDs only. No full personal data stored or shared. Data never given to campaigns or outside parties.</p>
+</section>
+
+</div>
+
+<footer class="footer">
+<div class="footer-inner">
+<p><strong>Citizens Ratification Inc.</strong> – Temporary nonpartisan nonprofit advancing the Citizens Ratification Amendment</p>
+<p>President: Jeff Gunson (USAF Ret.)</p>
+<p>Phone: (903) 646-1735 | Email: <a href="mailto:JeffGunson@hotmail.com">JeffGunson@hotmail.com</a></p>
+<p>Website: <a href="https://www.CitizensRatification.com">www.CitizensRatification.com</a></p>
+<p style="margin-top:1rem;font-size:.8rem">© 2026 Citizens Ratification Inc. All rights reserved. Educational use only.</p>
+</div>
+</footer>
+
+<script>
+  // Load the YouTube IFrame Player API
+  var tag = document.createElement('script');
+  tag.src = "https://www.youtube.com/iframe_api";
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player', {
+      height: '100%',
+      width: '100%',
+      playerVars: {
+        listType: 'playlist',
+        list: 'PLSUIf5piriE0',   // your playlist ID
+        autoplay: 0,
+        controls: 1,
+        rel: 0,
+        modestbranding: 1
+      },
+      events: {
+        'onReady': onPlayerReady
+      }
+    });
+  }
+
+  function onPlayerReady(event) {
+    // Force a NEW random order + continuous loop every time the page loads
+    player.setShuffle(true);
+    player.setLoop(true);
+  }
+</script>
+
+</body>
+</html>
