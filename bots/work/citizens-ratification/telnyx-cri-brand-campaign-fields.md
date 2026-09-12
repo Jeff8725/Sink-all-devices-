@@ -2,9 +2,11 @@
 
 **Purpose:** Ready-to-paste values for a **new** corporate 10DLC brand + campaign (Account Notification / low-volume operational).  
 **Context:** Prior campaign **C60P519** was **MNO_REJECTED** (CTIA / Telnyx **804**). That registration **cannot be edited** — create a **new brand + new campaign**.  
-**Scope:** Prep only. Do **not** log into Telnyx/TCR portal, do **not** submit, do **not** publish, do **not** cancel Twilio, and do **not** send test SMS without Jeff’s explicit yes.
+**Scope:** Jeff yes 2026-09-11 to proceed with resubmit. Do **not** cancel Twilio. Do **not** send test SMS without Jeff’s exact yes to that send.
 
-**Hard block:** **EIN is NOT ON FILE.** Leave EIN blank. Brand/campaign submit is **blocked** until SS-4 or CP 575 (IRS EIN confirmation) is in hand. Do not invent or guess an EIN.
+**EIN:** ON FILE privately (Jeff locked 2026-09-11). Number is **not** stored in this public hub. Prefer Letter 147C/CP575 photo when available. Use private Work copy or IRS letter at portal paste time only.
+**Privacy/Terms:** LIVE as of 2026-09-11.
+**Jeff yes 2026-09-11:** Proceed with Telnyx new brand + campaign resubmit. Still: do not cancel Twilio; do not send test SMS without exact yes.
 
 ---
 
@@ -17,7 +19,7 @@
 | **Entity type** | Nonprofit / Non-profit | Texas temporary nonprofit |
 | **Country of registration** | United States | |
 | **State of registration** | Texas | |
-| **EIN / Tax ID** | *(leave blank)* | **NOT ON FILE** — blocked until SS-4 / CP 575 |
+| **EIN / Tax ID** | *(on file privately — not stored in this hub)* | Jeff locked 2026-09-11; paste from private Work copy / IRS letter only |
 | **Vertical / Industry** | Nonprofit / Charity *(or closest Telnyx option)* | Operational fleet/account use, not fundraising SMS on this campaign |
 | **Website / Company URL** | https://citizensratification.com | Must be live HTTPS |
 | **Privacy policy URL** | https://citizensratification.com/privacy-policy.html | After upload; must be live HTTPS |
@@ -37,7 +39,7 @@
 | **Stock symbol / ISIN / etc.** | N/A | Nonprofit — leave blank if optional |
 
 **EIN status line (for notes / internal):**  
-`EIN: NOT ON FILE — brand registration blocked until SS-4 or CP 575 received. Do not invent EIN.`
+`EIN: ON FILE privately (not in this hub) — Jeff 2026-09-11. Privacy/Terms live. Prefer 147C photo later.`
 
 ---
 
@@ -135,7 +137,7 @@ Citizens Ratification Inc: You’re subscribed to operational Account Notificati
 Complete **all** before any portal submit (when EIN exists and Jeff authorizes):
 
 ### Blocking / identity
-- [ ] **EIN on file** — SS-4 or CP 575 in hand; EIN entered exactly as IRS shows (**currently NOT ON FILE — DO NOT SUBMIT**)
+- [ ] **EIN on file** — SS-4 or CP 575 in hand; EIN entered exactly as IRS shows (EIN on file privately; submit only with Jeff exact yes)
 - [ ] Legal name matches: **Citizens Ratification Inc.**
 - [ ] Authorized rep: **Jeff Gunson, CEO**
 - [ ] Email preference: try **jeff@citizensratification.com**; fallback **JeffGunson@hotmail.com**
@@ -166,8 +168,8 @@ Complete **all** before any portal submit (when EIN exists and Jeff authorizes):
 
 ## 5. Do-not-do list
 
-- **Do not invent or guess an EIN.** Leave blank until SS-4 / CP 575.
-- **Do not submit** brand or campaign while EIN is not on file.
+- **Do not invent or guess an EIN.** Number is on file privately; paste only from private Work copy or IRS letter — never from this hub.
+- **Do not submit** brand or campaign without Jeff’s exact yes for that submit.
 - **Do not edit** old campaign **C60P519** (MNO_REJECTED 804) — create new brand + new campaign.
 - **Do not** describe this campaign as marketing, political, or mass SMS.
 - **Do not** claim website opt-in / public CTA for this campaign — consent is **1:1 from Jeff**.
@@ -196,7 +198,7 @@ Complete **all** before any portal submit (when EIN exists and Jeff authorizes):
 | Recipient (ops) | 903-646-1735 |
 | Address (if needed) | 10643 County Road 4182 W, Henderson, TX 75654 |
 | Prior campaign | C60P519 — MNO_REJECTED 804 — do not edit |
-| EIN | **NOT ON FILE** — blocked until SS-4 / CP 575 |
+| EIN | **ON FILE privately** (not stored in this hub); prefer 147C/CP575 photo |
 
 ---
 
