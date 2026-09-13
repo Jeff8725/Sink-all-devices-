@@ -1,0 +1,39 @@
+CITIZENS RATIFICATION — Upload instructions (Jeff / Grok)
+Measurement ID: G-H9CZHBKGTR
+Site: https://citizensratification.com
+Folder: iCloud Drive / CRA-site-upload
+Date: 2026-09-12
+
+START WITH INDEX (homepage)
+1. In this folder, download: index.html
+2. Open hosting File Manager for citizensratification.com
+3. Go to site root (public_html / www)
+4. Upload index.html and OVERWRITE the live file
+5. Open https://citizensratification.com/ → View Source → confirm G-H9CZHBKGTR
+6. Tell Work: "GA pages live" (or finish the other pages first, then tell Work)
+
+THEN UPLOAD THESE SAME WAY (overwrite same names)
+01-support.html
+02-cra.html
+03-crb.html
+04-cri.html
+05-how.html
+06-rebuttals.html
+07-documents.html
+08-about.html
+privacy-policy.html
+terms-and-conditions.html
+
+DO NOT upload any .txt from this folder to the public website.
+
+RULES
+- Bots never operate the hosting control panel
+- Never mention banned password-manager or host-brand products
+- Say only: site root / hosting File Manager / Jeff uploads
+
+VERIFY
+curl -sL 'https://citizensratification.com/' | grep G-H9CZHBKGTR
+# Or View Source on homepage and search G-H9CZHBKGTR
+
+WHEN DONE
+Message Work: GA pages live

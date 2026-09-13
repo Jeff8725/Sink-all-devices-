@@ -1,0 +1,55 @@
+CITIZENS RATIFICATION — Google Analytics install
+Measurement ID: G-H9CZHBKGTR
+Site: https://citizensratification.com
+Date prepared: 2026-09-12
+Prepared by: Work (for Jeff Gunson / CRI)
+
+WHY
+Social replies send people to citizensratification.com. GA4 must be on the live pages so we can see which replies/posts drive traffic. Until these files are live, SCOREBOARD site columns stay empty.
+
+WHERE THE TAGGED FILES ARE
+iCloud Drive:
+  - Folder: CRA-site-upload  (this folder)
+  - Also: CRA / site-upload
+Chat zip (same HTML): CRA-site-upload-GA-G-H9CZHBKGTR.zip
+
+WHAT TO UPLOAD (overwrite same names on the live site root)
+1. index.html
+2. 01-support.html
+3. 02-cra.html
+4. 03-crb.html
+5. 04-cri.html
+6. 05-how.html
+7. 06-rebuttals.html
+8. 07-documents.html
+9. 08-about.html
+10. privacy-policy.html
+11. terms-and-conditions.html
+
+Do NOT upload this instructions txt (or any README) to the website.
+Do NOT rename files. Overwrite existing pages with the same names.
+
+HOW (Jeff only — bots never use the hosting control panel)
+1. Open your hosting File Manager for citizensratification.com.
+2. Go to the site root (public_html / www / web root).
+3. Upload the 11 HTML files listed above.
+4. Confirm overwrite / replace when asked.
+
+WHAT THE TAG LOOKS LIKE (already inside each HTML <head>)
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H9CZHBKGTR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-H9CZHBKGTR');
+</script>
+
+AFTER UPLOAD
+Tell Work in chat: "GA pages live" or "Uploaded — verify now".
+Work will check that G-H9CZHBKGTR appears on the live homepage and stop the upload reminders.
+
+NOTES
+- Apex host only: citizensratification.com
+- Do not duplicate the tag if a page already has it after upload
+- Privacy / terms pages are included so every public page can be measured
+- Social CTAs already use UTM tags; GA will attribute those once the site tag is live

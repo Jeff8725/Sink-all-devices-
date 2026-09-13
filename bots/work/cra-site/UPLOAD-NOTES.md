@@ -1,10 +1,10 @@
 # Upload notes — citizensratification.com SMS compliance pages
 
-**Do not publish from this workspace.** These files are upload-ready drafts only. HTTPS must be fixed on GoDaddy (AutoSSL) before Telnyx will treat the URLs as live compliant pages. Jeff enables SSL / completes portal steps when ready. Do not contact Jeff from the bot for this upload.
+**Do not publish from this workspace.** These files are upload-ready drafts only. HTTPS must be fixed on hosting SSL (AutoSSL) before Telnyx will treat the URLs as live compliant pages. Jeff enables SSL / completes portal steps when ready. Do not contact Jeff from the bot for this upload.
 
 ## Files to upload (site root)
 
-| Local path | Destination on GoDaddy (public_html / site root) |
+| Local path | Destination on hosting (public_html / site root) |
 |---|---|
 | `/workspace/cra-site/privacy-policy.html` | `privacy-policy.html` |
 | `/workspace/cra-site/terms-and-conditions.html` | `terms-and-conditions.html` |
@@ -16,11 +16,11 @@ Final public URLs (after SSL works):
 
 (Also acceptable if the live site uses `www.`; prefer one canonical host and redirect the other.)
 
-## GoDaddy steps (exact)
+## Hosting steps (exact)
 
 ### A. Enable HTTPS (AutoSSL) — required before Telnyx verification
 
-1. Sign in to GoDaddy → **My Products**.
+1. Sign in to the hosting account → **My Products** (or hosting dashboard).
 2. Find **Web Hosting** for citizensratification.com → **Manage**.
 3. Open **cPanel** (or the hosting control panel used for this site).
 4. Under **Security**, open **SSL/TLS Status** (or **Manage SSL sites** / AutoSSL).
@@ -80,9 +80,14 @@ Do **not** cancel Twilio or send a Telnyx test until Jeff explicitly says yes to
 - [x] Message and data rates may apply
 - [x] No sharing of mobile opt-in / mobile information with third parties for marketing or promotional purposes
 - [x] Self-contained static HTML (inline CSS; matches CRA navy/gold header/nav/footer pattern from `08-about.html`)
-- [x] No publish / no GoDaddy login / no Jeff contact from this prep task
+- [x] No publish / no hosting-panel login by bots / no Jeff contact from this prep task
 
 ## Source notes
 
 - Short prior drafts at `/workspace/hub-clone/docs/sms-privacy.html` and `sms-terms.html` were **Jeff household** stubs — **not** used as CRA copy.
 - Layout matched from local `/workspace/08-about.html` and live fetch of `http://citizensratification.com/08-about.html`.
+
+## GA4 (2026-09-12)
+
+Measurement ID `G-H9CZHBKGTR` (CRA-WEBSITE) is installed in the tagged HTML pack under `cra-site/ga/tagged/` and mirrored into the root drafts above.
+Live verify 2026-09-12 ~6:18 PM CT: all 11 apex root pages show `G-H9CZHBKGTR` + gtag. Jeff uploads via iCloud (`CRA-site-upload`); bots do not operate the hosting control panel.
